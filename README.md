@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- ===================================================== -->
+<!--        🚀 Ahmed Limon | coderemon24 Profile          -->
+<!-- ===================================================== -->
 
-<!--
-**coderemon24/coderemon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ahmed Limon</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">🚀 Backend Engineer | Laravel Specialist | Clean Code Lover</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Engineer+from+Bangladesh+🇧🇩;Laravel+%7C+PHP+%7C+MySQL+Expert;Building+Scalable+Web+Applications;Always+Learning+Something+New+🔥" />
+</p>
+
+---
+
+## 🧠 About Me
+
+```php
+class AhmedLimon {
+
+    public $role = "Backend Engineer";
+    public $location = "Dhaka, Bangladesh 🇧🇩";
+    public $stack = ["PHP", "Laravel", "MySQL", "jQuery", "AJAX"];
+    public $passion = "Clean Architecture & Scalable Systems";
+
+    public function build() {
+        return "I turn ideas into powerful backend systems 🚀";
+    }
+}
