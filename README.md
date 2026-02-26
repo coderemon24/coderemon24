@@ -37,19 +37,19 @@ currently_building:
 
 <p align="center">
 
-<a href="https://github.com/coderemon24">
+<a href="https://github.com/coderemon24" target="_blank" title="Ahmed Limon">
   <img src="https://img.shields.io/badge/GitHub-coderemon24-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/nullspectre">
+<a href="https://linkedin.com/in/nullspectre" target="_blank" title="Ahmed Limon">
   <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Emon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://facebook.com/coderemon24">
+<a href="https://facebook.com/coderemon24" target="_blank" title="Md. Emon Ahmed">
   <img src="https://img.shields.io/badge/Facebook-Ahmed%20Emon-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="mailto:ahmedemon.dev24@gmail.com">
+<a href="mailto:ahmedemon.dev24@gmail.com" target="_blank" title="ahmedemon.dev24@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
