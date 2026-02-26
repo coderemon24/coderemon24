@@ -35,14 +35,14 @@ currently_building:
 ---
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/coderemon24" target="_blank" title="Ahmed Limon">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="left">
 
 <a href="https://linkedin.com/in/nullspectre" target="_blank" title="Ahmed Limon">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/coderemon24" target="_blank" title="Ahmed Limon">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://facebook.com/coderemon24" target="_blank" title="Md. Emon Ahmed">
