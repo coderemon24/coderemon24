@@ -29,5 +29,5 @@ focus:
   - Performance Optimization
 currently_building:
   - Real-time systems
-  - SaaS CRM
+  - Coaching Management App (SaaS)
   - E-learning platform (Go + Postgres)
