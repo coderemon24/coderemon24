@@ -32,7 +32,7 @@ currently_building:
   - Coaching Management App (SaaS)
   - E-learning platform (Go + Postgres)
 ```
-```
+---
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -54,4 +54,3 @@ currently_building:
 </a>
 
 </p>
-```
