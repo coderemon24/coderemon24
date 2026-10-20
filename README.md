@@ -28,9 +28,7 @@ focus:
   - Multi-vendor Architecture
   - Performance Optimization
 currently_building:
-  - Real-time systems
-  - Coaching Management App (SaaS)
-  - E-learning platform (Go + Postgres)
+  - School Management App (SaaS)
 ```
 ---
 ## 🌐 Connect With Me
